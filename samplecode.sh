@@ -1,1 +1,2 @@
-echo “welcome to the this project” 
+echo “welcome to the stream training handson”
+changed
