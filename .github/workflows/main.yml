@@ -1,6 +1,3 @@
-# a sample yaml file
----
-company: training
-domain:
-- devops
-- devsecops
+name: Sample Workflow
+
+
