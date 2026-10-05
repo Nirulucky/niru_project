@@ -1,0 +1,6 @@
+# a sample yaml file
+---
+company: training
+domain:
+- devops
+- devsecops
